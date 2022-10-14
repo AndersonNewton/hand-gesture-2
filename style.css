@@ -1,0 +1,45 @@
+body{
+
+background-color:dodgerblue;
+color:forestgreen;
+
+}
+
+.title_div{
+
+    background-color: burlywood;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    box-shadow: 3px 3px 43px palevioletred;
+    font-family: 'Bungee Shade', cursive;
+
+}
+
+#button_start{
+
+    font-size: 24px;
+    box-shadow: 3px 3px 40px green;
+
+}
+
+#label_hear, #label_accuracy{
+
+    font-size: 25px;
+    color:red;
+    box-shadow: 2px 2px 30px green;
+}
+    
+
+
+
+#footer{
+
+    position:fixed;
+    bottom:250;
+    left: 775;
+    font-size: 30;
+    font-family: 'Nabla', cursive;
+
+ 
+
+}
